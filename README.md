@@ -84,6 +84,12 @@ TOEFL: 0982 (no department code)
 [Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
 [Application deadline](http://www.dlsph.utoronto.ca/students/future-students/application-process/) 1 Jan
 
+### 2018-01-15 UBC: Second Bachelor of Computer Science
+https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
+
+### 2018-01-15 SFU: Second Bachelor of Computer Science
+https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
+
 ## 欧洲
 
 ### 2017-12-15 苏黎世联邦理工学院(ETHz): Msc Computational Biology and Bioinformatics [file](./graduate_school/ethz)
@@ -121,12 +127,6 @@ Documents required:
 8. proof of a sufficient level in English: where applicable
 9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
 
-### UBC BCS
-https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
-
-### SFU BCS
-https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
-
 ### 2018-01-15 瑞典皇家工学院(KTH): Msc Molecular Techniques in Life Science [file](./graduate_school/kth)
 
 All application will be make through [universityadmissions](https://www.universityadmissions.se/intl/start).
@@ -158,6 +158,7 @@ Additional Documents required:
 
 
 ### 剑桥 (University of Cambridge): MPhil in Computational Biology
+https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi
 
 ### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc Computer Science (Bioinformatics) [file](./graduate_school/tudelft)
 
@@ -179,4 +180,3 @@ Q3: What is your favorite pet?
 A: benben
 Q4: In which city did you meet your partner?
 A: foshan
-
