@@ -2,18 +2,18 @@
 
 ## 美国
 
-### 2017-12-15 Yale: Msc Statistics Yale
-https://apply.grad.yale.edu/apply/frm?c1f71044-d024-44fc-92a7-7535ff6c0174
+### 2017-12-15 耶鲁大学 (Yale): Msc in Statistics
+[Apply online](https://apply.grad.yale.edu/apply/frm?c1f71044-d024-44fc-92a7-7535ff6c0174)
 
-### 2017-12-15 NYU Tandon: Msc Computer Science
+### 2017-12-15 纽约大学坦登工程学院 (NYU Tandon): Msc in Computer Science
 All the official transcripts needed
 TOEFL: 2668 78
 [Apply online](http://engineering.nyu.edu/admissions/graduate/apply)
 
-### Msc Data Science NYU Courant
-https://apply.gsas.nyu.edu/apply/
+### 2017-12-15 纽约大学(NYU): Msc in Data Science 
+[Apply online](https://apply.gsas.nyu.edu/apply/)
 
-### 2017-12-15: Msc CS 37 南加大 (USC)
+### 2017-12-15 南加大 (USC): Msc CS 37 
 Fall 2018 (Scholarship Consideration Deadline)	December 15, 2017	Online application & transcripts
 Fall 2018 (Final Deadline)	January 17, 2018	All materials including testscores
 https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/
@@ -33,7 +33,7 @@ TOEFL Institution Code: 4256; Department Code: 78
 ### 2017-12-15 Columbia: Statistics
 Rolling basis
 
-### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc Bioinformatics [file](./graduate_school/uiuc) 
+### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc Bioinformatics
 TOEFL (Sent at 12 Nov): 
 Institution code: 1836
 Department code: Don't matter, all will be received
@@ -71,7 +71,7 @@ TOEFL Not required
 TOEFL: 0965 (to enter a college or university as a graduate student)
 [Info](https://www.stat.ubc.ca/Msc-program-details)
 
-### 2018-01-19 多伦多大学 (University of Toronto) Msc Biostatistics [file](./graduate_school/utoronto)
+### 2018-01-19 多伦多大学 (University of Toronto) Msc Biostatistics
 
 TOEFL: 0982 (no department code)
 [Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
@@ -85,7 +85,7 @@ https://www.sfu.ca/computing/current-students/undergraduate-students/programs/se
 
 ## 欧洲
 
-### 2017-12-15 苏黎世联邦理工学院(ETHz): Msc Computational Biology and Bioinformatics [file](./graduate_school/ethz)
+### 2017-12-15 苏黎世联邦理工学院(ETHz): Msc Computational Biology and Bioinformatics 
 
 TOEFL: Sent at 09 Nov
 
