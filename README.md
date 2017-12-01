@@ -1,6 +1,4 @@
-[TOC]
-
-## Summary
+{:toc}
 
 ## 美国
 
@@ -36,41 +34,6 @@ TOEFL Institution Code: 4256; Department Code: 78
 ### MA in Stat Columbia 
 Rolling basis
 
-
-## 加拿大
-
-### 2017-12-15 麦吉尔大学 (McGill University): Msc Biostatistics [file](./graduate_school/mcgill)
-
-TOEFL: Sent at 09 Nov
-
-[Info](http://www.mcgill.ca/gradapplicants/german-studies-0#app)
-[Apply](https://nimbus.mcgill.ca/uApply/dashboard/applicant)
-
-
-### 2018-02-01 滑铁卢大学 (University of Waterloo) MMath Biostatistics (Co-op) [file](./graduate_school/uwaterloo)
-
-TOEFL Not required
-
-[Info](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics-co-operative-program)
-[Apply online](https://uwaterloo.ca/discover-graduate-studies/application-process/apply-online)
-[OUAC](https://www.ouac.on.ca/apply/uwgrad/en_CA/user/login)
-
-
-
-
-## 2018-01
-
-
-### (可能不申) 2018-01-15 英属哥伦比亚大学 (University of British Columbia) Msc Statistics (Biostatistics track) [file](./graduate_school/ubc)
-TOEFL: 0965 (to enter a college or university as a graduate student)
-[Info](https://www.stat.ubc.ca/Msc-program-details)
-
-### 2018-01-19 多伦多大学 (University of Toronto) Msc Biostatistics [file](./graduate_school/utoronto)
-
-TOEFL: 0982 (no department code)
-[Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
-[Application deadline](http://www.dlsph.utoronto.ca/students/future-students/application-process/) 1 Jan
-
 ### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc Bioinformatics [file](./graduate_school/uiuc) 
 
 TOEFL (Sent at 12 Nov): 
@@ -91,6 +54,35 @@ Word maximums may vary by program. Please review program application instruction
 
 I am applying to the M.S. or Ph.D. program. Am I required to provide three faculty names in the CS Interest Form?
 This is not required. But, we strongly encourage you to identify at least three CS faculty with whom you might want to work if admitted. Please explore the CS faculty profiles on our website if you are not familiar with the research interests of our faculty. CS faculty are also listed by research area.
+
+
+## 加拿大
+
+### 2017-12-15 麦吉尔大学 (McGill University): Msc Biostatistics [file](./graduate_school/mcgill)
+
+TOEFL: Sent at 09 Nov
+
+[Info](http://www.mcgill.ca/gradapplicants/german-studies-0#app)
+[Apply](https://nimbus.mcgill.ca/uApply/dashboard/applicant)
+
+
+### 2018-02-01 滑铁卢大学 (University of Waterloo) MMath Biostatistics (Co-op) [file](./graduate_school/uwaterloo)
+
+TOEFL Not required
+
+[Info](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics-co-operative-program)
+[Apply online](https://uwaterloo.ca/discover-graduate-studies/application-process/apply-online)
+[OUAC](https://www.ouac.on.ca/apply/uwgrad/en_CA/user/login)
+
+### 2018-01-15 英属哥伦比亚大学 (University of British Columbia) Msc Statistics (Biostatistics track) [file](./graduate_school/ubc)
+TOEFL: 0965 (to enter a college or university as a graduate student)
+[Info](https://www.stat.ubc.ca/Msc-program-details)
+
+### 2018-01-19 多伦多大学 (University of Toronto) Msc Biostatistics [file](./graduate_school/utoronto)
+
+TOEFL: 0982 (no department code)
+[Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
+[Application deadline](http://www.dlsph.utoronto.ca/students/future-students/application-process/) 1 Jan
 
 ## 欧洲
 
@@ -135,10 +127,6 @@ https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
 ### SFU BCS
 https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
 
-## 欧洲
-
-
-
 ### 2018-01-15 瑞典皇家工学院(KTH): Msc Molecular Techniques in Life Science [file](./graduate_school/kth)
 
 All application will be make through [universityadmissions](https://www.universityadmissions.se/intl/start).
@@ -169,7 +157,7 @@ Additional Documents required:
 1. Statement of purpose (1 page)
 
 
-### 剑桥 (University of Cambridge)
+### 剑桥 (University of Cambridge): MPhil in Computational Biology
 
 ### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc Computer Science (Bioinformatics) [file](./graduate_school/tudelft)
 
