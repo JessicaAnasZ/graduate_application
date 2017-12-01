@@ -11,31 +11,29 @@ TOEFL: 2668 78
 [Apply online](http://engineering.nyu.edu/admissions/graduate/apply)
 
 ### Msc Data Science NYU Courant
-
 https://apply.gsas.nyu.edu/apply/
 
 ### 2017-12-15: Msc CS 37 南加大 (USC)
-
 Fall 2018 (Scholarship Consideration Deadline)	December 15, 2017	Online application & transcripts
 Fall 2018 (Final Deadline)	January 17, 2018	All materials including testscores
 https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/
-[Apply](https://usc.liaisoncas.com/applicant-ux/#/login)
+[Apply online](https://usc.liaisoncas.com/applicant-ux/#/login)
 [Toefl requirement](https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/) USC’s institution code is 4852. (No department code is required.)
 
 ### 2017-12-15 CMU: Msc in BIC
 [Info](http://bic.cs.cmu.edu/admissions/)
 顺带申了吧
-[MSBIC Curriculum](http://bic.cs.cmu.edu/curriculum/#11675)
+[Curriculum](http://bic.cs.cmu.edu/curriculum/#11675)
+[Apply online]()
 
 ### 2017-12-15 CMU: Msc in Computational Biology
 GRE Institution Code: 2074; Department Code: 0402
 TOEFL Institution Code: 4256; Department Code: 78
 
-### MA in Stat Columbia 
+### 2017-12-15 Columbia: Statistics
 Rolling basis
 
 ### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc Bioinformatics [file](./graduate_school/uiuc) 
-
 TOEFL (Sent at 12 Nov): 
 Institution code: 1836
 Department code: Don't matter, all will be received
@@ -44,9 +42,7 @@ Decision deadline: 15 Mar [link](https://cs.illinois.edu/admissions/graduate/app
 
 [Msc Bioinformatics](https://cs.illinois.edu/academics/graduate/ms-bioinformatics-program)
 
-10/11/2017
-
-[Apply](https://choose.illinois.edu/apply/)
+[Apply online](https://choose.illinois.edu/apply/)
 
 Please describe your previous academic work in your proposed field of study and include a personal statement regarding your goals for graduate study and a professional career. Please also describe any relevant research experience and what you have learned from it, and other educational and life experiences that you feel are important and relevant. If you have specific interests in your proposed field of study or are interested in working with any particular faculty members, please tell us about them.
 
@@ -58,23 +54,20 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 ## 加拿大
 
-### 2017-12-15 麦吉尔大学 (McGill University): Msc Biostatistics [file](./graduate_school/mcgill)
-
-TOEFL: Sent at 09 Nov
+### 2017-12-15 麦吉尔大学 (McGill University): Msc Biostatistics
 
 [Info](http://www.mcgill.ca/gradapplicants/german-studies-0#app)
 [Apply](https://nimbus.mcgill.ca/uApply/dashboard/applicant)
 
 
-### 2018-02-01 滑铁卢大学 (University of Waterloo) MMath Biostatistics (Co-op) [file](./graduate_school/uwaterloo)
-
-TOEFL Not required
+### 2018-02-01 滑铁卢大学 (University of Waterloo) MMath Biostatistics (Co-op)
 
 [Info](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics-co-operative-program)
 [Apply online](https://uwaterloo.ca/discover-graduate-studies/application-process/apply-online)
 [OUAC](https://www.ouac.on.ca/apply/uwgrad/en_CA/user/login)
+TOEFL Not required
 
-### 2018-01-15 英属哥伦比亚大学 (University of British Columbia) Msc Statistics (Biostatistics track) [file](./graduate_school/ubc)
+### 2018-01-15 英属哥伦比亚大学 (University of British Columbia) Msc Statistics (Biostatistics track)
 TOEFL: 0965 (to enter a college or university as a graduate student)
 [Info](https://www.stat.ubc.ca/Msc-program-details)
 
@@ -110,14 +103,13 @@ Documents needed for [Scholarship](https://www.ethz.ch/students/en/studies/finan
 3. Pre-proposal for my Master's thesis(see [guideline](./graduate_school/ethz/Guidelines_Preproposal.pdf)
 4. Two letters of recommendation from professors
 
-### 2018-02-15 苏黎世大学(UZH): Msc Biostatistics [file](./graduate_school/uzh)
-
+### 2018-02-15 苏黎世大学(UZH): Msc Biostatistics
 Need to submit and get approved by the department first before going to the admission committee
 
 [Info](http://www.biostat.uzh.ch/)
 Deadline: 15 Feb
 Documents required: 
-1. [application form](./graduate_school/uzh)
+1. application form
 2. motivation letter
 3. complete CV
 4. complete set of transcripts and diplomas: non-legalized copies are sufficient in the first step
@@ -127,14 +119,14 @@ Documents required:
 8. proof of a sufficient level in English: where applicable
 9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
 
-### 2018-01-15 瑞典皇家工学院(KTH): Msc Molecular Techniques in Life Science [file](./graduate_school/kth)
-
-All application will be make through [universityadmissions](https://www.universityadmissions.se/intl/start).
+### 2018-01-15 瑞典皇家工学院(KTH): Msc Molecular Techniques in Life Science
+All application will be make through universityadmissions.
+[Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
+[Apply online](https://www.universityadmissions.se/intl/start)
 
 General info. need to be submitted once but university-specific files may vary 
 
-[Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
-6 Apr 2018: Notification of selection results
+2018-04-06: Notification of selection results
 
 Additional Documents required [more](https://www.kth.se/en/studies/master/molecular-techniques-life-science/entry-requirements-1.501288):
 1. CV
@@ -142,34 +134,37 @@ Additional Documents required [more](https://www.kth.se/en/studies/master/molecu
 3. Description of and documented relevant work experience, if any.
 4. Summary sheet
 	
-### (可能不申) 2018-01-15 隆德大学(Lund University): Msc Bioinformatics [file](./graduate_school/lund)
-
+### 2018-01-15 隆德大学(Lund University): Msc Bioinformatics
+Apply together with KTH.
 [Info](http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF/18010)
+[Apply online](https://www.universityadmissions.se/intl/start)
 
 Additional Documents required:
-1. [Summary sheet](./graduate_school/lund/00summary-sheet-bioinformatics-2018.pdf)
+1. Summary sheet
 
-### (可能不申) 2018-01-15 乌普萨拉大学(Uppsala University): Msc Bioinformatics (Biology background) [file](./graduate_school/uppsala)
-
+### 2018-01-15 乌普萨拉大学(Uppsala University): Msc Bioinformatics (Biology background)
+Apply together with KTH.
 [Info](http://www.uu.se/en/admissions/master/selma/program/?pInr=BIOL&pKod=TBK2M&lasar=18/19)
+[Apply online](https://www.universityadmissions.se/intl/start)
 
 Additional Documents required:
 1. Statement of purpose (1 page)
 
 
-### 剑桥 (University of Cambridge): MPhil in Computational Biology
-https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi
+### 2018-03-** 剑桥大学 (University of Cambridge): MPhil in Computational Biology
+Rolling basis
+[Info](https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi)
 
-### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc Computer Science (Bioinformatics) [file](./graduate_school/tudelft)
-
+### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc Computer Science (Bioinformatics)
+Rolling basis
 [Info](https://www.tudelft.nl/en/education/programmes/masters/computer-science/Msc-computer-science/special-programmes/bioinformatics/)
-[Deadline](https://www.tudelft.nl/index.php?id=8244&L=1) 31 Mar
+[Deadline](https://www.tudelft.nl/index.php?id=8244&L=1):2018-03-31
 
 ### 2018-04-01 莱顿大学(University of Leiden): Msc Computer Science (Bioinformatics) [file](./graduate_school/uleiden)
-
+Rolling basis
 [Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)
-[Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines) 1 Apr
-[Apply](https://usis.leidenuniv.nl:8011/psp/S4PRD/?cmd=login&languageCd=ENG)
+[Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines): 2018-04-01
+[Apply online](https://usis.leidenuniv.nl:8011/psp/S4PRD/?cmd=login&languageCd=ENG)
 
 Security Questions:
 Q1: What is the first name of your oldest cousin?
