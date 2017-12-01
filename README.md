@@ -1,5 +1,3 @@
-{:toc}
-
 ## 美国
 
 ### 2017-12-15 耶鲁大学 (Yale): Msc in Statistics
@@ -13,27 +11,27 @@ TOEFL: 2668 78
 ### 2017-12-15 纽约大学(NYU): Msc in Data Science 
 [Apply online](https://apply.gsas.nyu.edu/apply/)
 
-### 2017-12-15 南加大 (USC): Msc CS 37 
+### 2017-12-15 南加大 (USC): Msc in Computer Science (Scientists and Engineers)
 Fall 2018 (Scholarship Consideration Deadline)	December 15, 2017	Online application & transcripts
 Fall 2018 (Final Deadline)	January 17, 2018	All materials including testscores
 https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/
 [Apply online](https://usc.liaisoncas.com/applicant-ux/#/login)
 [Toefl requirement](https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/) USC’s institution code is 4852. (No department code is required.)
 
-### 2017-12-15 CMU: Msc in BIC
+### 2017-12-15 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
 [Info](http://bic.cs.cmu.edu/admissions/)
 顺带申了吧
 [Curriculum](http://bic.cs.cmu.edu/curriculum/#11675)
 [Apply online]()
 
-### 2017-12-15 CMU: Msc in Computational Biology
+### 2017-12-15 卡内基梅隆大学 (CMU): Msc in Computational Biology
 GRE Institution Code: 2074; Department Code: 0402
 TOEFL Institution Code: 4256; Department Code: 78
 
-### 2017-12-15 Columbia: Statistics
+### 2017-12-15 哥伦比亚大学 (Columbia University): MA in Statistics
 Rolling basis
 
-### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc Bioinformatics
+### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
 TOEFL (Sent at 12 Nov): 
 Institution code: 1836
 Department code: Don't matter, all will be received
@@ -54,38 +52,32 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 ## 加拿大
 
-### 2017-12-15 麦吉尔大学 (McGill University): Msc Biostatistics
+### 2017-12-15 麦吉尔大学 (McGill University): Msc in Biostatistics
 
 [Info](http://www.mcgill.ca/gradapplicants/german-studies-0#app)
 [Apply](https://nimbus.mcgill.ca/uApply/dashboard/applicant)
 
 
-### 2018-02-01 滑铁卢大学 (University of Waterloo) MMath Biostatistics (Co-op)
+### 2018-02-01 滑铁卢大学 (University of Waterloo): MMath in Biostatistics (Co-op)
 
 [Info](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics-co-operative-program)
 [Apply online](https://uwaterloo.ca/discover-graduate-studies/application-process/apply-online)
 [OUAC](https://www.ouac.on.ca/apply/uwgrad/en_CA/user/login)
 TOEFL Not required
 
-### 2018-01-15 英属哥伦比亚大学 (University of British Columbia) Msc Statistics (Biostatistics track)
+### 2018-01-15 英属哥伦比亚大学 (University of British Columbia): Msc in Statistics (Biostatistics track)
 TOEFL: 0965 (to enter a college or university as a graduate student)
 [Info](https://www.stat.ubc.ca/Msc-program-details)
 
-### 2018-01-19 多伦多大学 (University of Toronto) Msc Biostatistics
+### 2018-01-19 多伦多大学 (University of Toronto): Msc in Biostatistics
 
 TOEFL: 0982 (no department code)
 [Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
 [Application deadline](http://www.dlsph.utoronto.ca/students/future-students/application-process/) 1 Jan
 
-### 2018-01-15 UBC: Second Bachelor of Computer Science
-https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
-
-### 2018-01-15 SFU: Second Bachelor of Computer Science
-https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
-
 ## 欧洲
 
-### 2017-12-15 苏黎世联邦理工学院(ETHz): Msc Computational Biology and Bioinformatics 
+### 2017-12-15 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
 
 TOEFL: Sent at 09 Nov
 
@@ -103,7 +95,7 @@ Documents needed for [Scholarship](https://www.ethz.ch/students/en/studies/finan
 3. Pre-proposal for my Master's thesis(see [guideline](./graduate_school/ethz/Guidelines_Preproposal.pdf)
 4. Two letters of recommendation from professors
 
-### 2018-02-15 苏黎世大学(UZH): Msc Biostatistics
+### 2018-02-15 苏黎世大学(UZH): Msc in Biostatistics
 Need to submit and get approved by the department first before going to the admission committee
 
 [Info](http://www.biostat.uzh.ch/)
@@ -119,7 +111,7 @@ Documents required:
 8. proof of a sufficient level in English: where applicable
 9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
 
-### 2018-01-15 瑞典皇家工学院(KTH): Msc Molecular Techniques in Life Science
+### 2018-01-15 瑞典皇家工学院(KTH): Msc in Molecular Techniques in Life Science
 All application will be make through universityadmissions.
 [Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
 [Apply online](https://www.universityadmissions.se/intl/start)
@@ -134,7 +126,7 @@ Additional Documents required [more](https://www.kth.se/en/studies/master/molecu
 3. Description of and documented relevant work experience, if any.
 4. Summary sheet
 	
-### 2018-01-15 隆德大学(Lund University): Msc Bioinformatics
+### 2018-01-15 隆德大学(Lund University): Msc in Bioinformatics
 Apply together with KTH.
 [Info](http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF/18010)
 [Apply online](https://www.universityadmissions.se/intl/start)
@@ -142,7 +134,7 @@ Apply together with KTH.
 Additional Documents required:
 1. Summary sheet
 
-### 2018-01-15 乌普萨拉大学(Uppsala University): Msc Bioinformatics (Biology background)
+### 2018-01-15 乌普萨拉大学(Uppsala University): Msc in Bioinformatics (Biology background)
 Apply together with KTH.
 [Info](http://www.uu.se/en/admissions/master/selma/program/?pInr=BIOL&pKod=TBK2M&lasar=18/19)
 [Apply online](https://www.universityadmissions.se/intl/start)
@@ -155,12 +147,12 @@ Additional Documents required:
 Rolling basis
 [Info](https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi)
 
-### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc Computer Science (Bioinformatics)
+### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc in Computer Science (Bioinformatics)
 Rolling basis
 [Info](https://www.tudelft.nl/en/education/programmes/masters/computer-science/Msc-computer-science/special-programmes/bioinformatics/)
 [Deadline](https://www.tudelft.nl/index.php?id=8244&L=1):2018-03-31
 
-### 2018-04-01 莱顿大学(University of Leiden): Msc Computer Science (Bioinformatics) [file](./graduate_school/uleiden)
+### 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics) [file](./graduate_school/uleiden)
 Rolling basis
 [Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)
 [Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines): 2018-04-01
@@ -175,3 +167,11 @@ Q3: What is your favorite pet?
 A: benben
 Q4: In which city did you meet your partner?
 A: foshan
+
+## Second Bachlar 
+
+### 2018-01-15 UBC: Second Bachelor of Computer Science
+https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
+
+### 2018-01-15 SFU: Second Bachelor of Computer Science
+https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
