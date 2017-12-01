@@ -216,7 +216,7 @@ This is not required. But, we strongly encourage you to identify at least three 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
+| TOEFL | 0982   | N/A         | Not required |
 
 [Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
 
@@ -298,6 +298,8 @@ Documents required:
 
 [Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
 
+[Curriculum]()
+
 [Apply online](https://www.universityadmissions.se/intl/start)
 
 All application will be make through universityadmissions.
@@ -322,8 +324,6 @@ Apply together with KTH.
 
 [Info](http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF/18010)
 
-[Apply online](https://www.universityadmissions.se/intl/start)
-
 Additional Documents required:
 1. Summary sheet
 
@@ -332,8 +332,6 @@ Additional Documents required:
 Apply together with KTH.
 
 [Info](http://www.uu.se/en/admissions/master/selma/program/?pInr=BIOL&pKod=TBK2M&lasar=18/19)
-
-[Apply online](https://www.universityadmissions.se/intl/start)
 
 Additional Documents required:
 1. Statement of purpose (1 page)
@@ -357,12 +355,19 @@ Rolling basis
 | GRE   | N/A    | N/A         | Not required |
 | TOEFL |        | N/A         | Not sent |
 
-Rolling basis
 [Info](https://www.tudelft.nl/en/education/programmes/masters/computer-science/Msc-computer-science/special-programmes/bioinformatics/)
+
+[Curriculum]()
+
+[Apply online]()
 
 **Important Dates**
 
 2018-03-31: [Deadline](https://www.tudelft.nl/index.php?id=8244&L=1)
+
+**Extra**
+
+Rolling basis
 
 ### 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
 
@@ -371,15 +376,19 @@ Rolling basis
 | GRE   | N/A    | N/A         | Not required |
 | TOEFL |        | N/A         | Not sent |
 
-Rolling basis
-
 [Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)、
+
+[Curriculum]()
 
 [Apply online](https://usis.leidenuniv.nl:8011/psp/S4PRD/?cmd=login&languageCd=ENG)
 
 **Important Dates**
 
 2018-04-01: [Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines)
+
+**Extra**
+
+Rolling basis
 
 Security Questions:
 Q1: What is the first name of your oldest cousin?
