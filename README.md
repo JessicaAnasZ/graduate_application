@@ -1,12 +1,13 @@
 ## 美国
 
 ### 2017-12-15 耶鲁大学 (Yale): Msc in Statistics
+
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 1111   | 1111        | Sent     |
-| TOEFL | 1111   | 1111        | Not Sent |
+| GRE   | 3987   | N/A         | Sent     |
+| TOEFL | 3987   | N/A         | Sent     |
 
-[Info]()
+[Info](https://statistics.yale.edu/academics/terminal-ma-program)
 
 [Curriculum]()
 
@@ -14,11 +15,16 @@
 
 **Important Dates**
 
+**Extra**
+
+[Application guideline](https://gsas.yale.edu/admissions/application-process)
+
 ### 2017-12-15 纽约大学坦登工程学院 (NYU Tandon): Msc in Computer Science
+
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 1111   | 1111        | Sent     |
-| TOEFL | 2668   | 78          | Not Sent |
+| GRE   | 2668   | N/A         | Sent     |
+| TOEFL | 2668   | 78          | Sent     |
 
 [Info]()
 
@@ -36,8 +42,8 @@ All the official transcripts needed
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 1111   | 1111        | Sent     |
-| TOEFL | 1111   | 1111        | Not Sent |
+| GRE   | 2596   | N/A         | Sent     |
+| TOEFL | 2596   | N/A         | Sent     |
 
 [Info]()
 
@@ -49,8 +55,8 @@ All the official transcripts needed
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 4852   | 1111        | Sent     |
-| TOEFL | 4852   | N/A         | Not Sent |
+| GRE   | 4852   | N/A         | Sent     |
+| TOEFL | 4852   | N/A         | Sent     |
 
 [Info](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/)
 
@@ -72,8 +78,8 @@ All the official transcripts needed
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 4852   | 1111        | Sent     |
-| TOEFL | 4852   | N/A         | Not Sent |
+| GRE   | 2074   | N/A         | Sent     |
+| TOEFL | 2074   | N/A         | Sent     |
 
 [Info](http://bic.cs.cmu.edu/admissions/)
 
@@ -89,8 +95,8 @@ All the official transcripts needed
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 2074   | 0402        | Sent     |
-| TOEFL | 4256   | 78          | Not Sent |
+| GRE   | 2074   | N/A         | Sent     |
+| TOEFL | 2074   | N/A         | Sent     |
 
 [Info]()
 
@@ -107,8 +113,8 @@ All the official transcripts needed
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 2074   | 0402        | Sent     |
-| TOEFL | 4256   | 78          | Not Sent |
+| GRE   | 2162   | N/A         | Sent     |
+| TOEFL | 4256   | N/A         | Sent     |
 
 [Info]()
 
@@ -230,8 +236,8 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
+| GRE   | N/A    | N/A         | Sent     |
+| TOEFL | 0982   | N/A         | Sent     |
 
 [Info](http://www.cbb.ethz.ch/prospective-students.html)
 
@@ -254,6 +260,7 @@ This is not required. But, we strongly encourage you to identify at least three 
 网申时，要把每个上过的课的course description写下（500 character）
 
 ### 2018-02-15 苏黎世大学(UZH): Msc in Biostatistics
+
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
@@ -287,7 +294,7 @@ Documents required:
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
+| TOEFL |        | N/A         | Not sent |
 
 [Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
 
@@ -312,15 +319,20 @@ Additional Documents required [more](https://www.kth.se/en/studies/master/molecu
 ### 2018-01-15 隆德大学(Lund University): Msc in Bioinformatics
 
 Apply together with KTH.
+
 [Info](http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF/18010)
+
 [Apply online](https://www.universityadmissions.se/intl/start)
 
 Additional Documents required:
 1. Summary sheet
 
 ### 2018-01-15 乌普萨拉大学(Uppsala University): Msc in Bioinformatics (Biology background)
+
 Apply together with KTH.
+
 [Info](http://www.uu.se/en/admissions/master/selma/program/?pInr=BIOL&pKod=TBK2M&lasar=18/19)
+
 [Apply online](https://www.universityadmissions.se/intl/start)
 
 Additional Documents required:
@@ -332,9 +344,10 @@ Additional Documents required:
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
+| TOEFL |        | N/A         | Not sent |
 
 Rolling basis
+
 [Info](https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi)
 
 ### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc in Computer Science (Bioinformatics)
@@ -342,24 +355,31 @@ Rolling basis
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
+| TOEFL |        | N/A         | Not sent |
 
 Rolling basis
 [Info](https://www.tudelft.nl/en/education/programmes/masters/computer-science/Msc-computer-science/special-programmes/bioinformatics/)
 
-[Deadline](https://www.tudelft.nl/index.php?id=8244&L=1):2018-03-31
+**Important Dates**
+
+2018-03-31: [Deadline](https://www.tudelft.nl/index.php?id=8244&L=1)
 
 ### 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
+| TOEFL |        | N/A         | Not sent |
 
 Rolling basis
-[Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)
-[Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines): 2018-04-01
+
+[Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)、
+
 [Apply online](https://usis.leidenuniv.nl:8011/psp/S4PRD/?cmd=login&languageCd=ENG)
+
+**Important Dates**
+
+2018-04-01: [Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines)
 
 Security Questions:
 Q1: What is the first name of your oldest cousin?
@@ -374,7 +394,9 @@ A: foshan
 ## Second Bachlar 
 
 ### 2018-01-15 UBC: Second Bachelor of Computer Science
+
 https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
 
 ### 2018-01-15 SFU: Second Bachelor of Computer Science
+
 https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
