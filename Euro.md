@@ -19,6 +19,12 @@
 
 **Extra**
 
+[Scholarship](https://www.ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html)
+
+Two letter of recommedation in application package can aslo be reviewed by the scholarship application committee.
+
+Can be submitted in a single envelop.
+
 [Online application form](https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en)
 
 [中文文件的证明要求](./graduate_school/ethz/eth_certificate.pdf)
