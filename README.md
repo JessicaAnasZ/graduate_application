@@ -98,11 +98,11 @@ All the official transcripts needed
 | GRE   | 2074   | N/A         | Sent     |
 | TOEFL | 2074   | N/A         | Sent     |
 
-[Info]()
+[Info](https://www.cmu.edu/ms-compbio/index.html)
 
 [Curriculum]()
 
-[Apply online]()
+[Apply online](https://applygrad.cs.cmu.edu/apply/index.php?domain=1)
 
 **Important Dates**
 
