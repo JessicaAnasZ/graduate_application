@@ -1,6 +1,6 @@
 ## 欧洲
 
-### 2017-12-15 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
+### (Submitted) 2017-12-15 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -63,7 +63,7 @@ Documents required:
 8. proof of a sufficient level in English: where applicable
 9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
 
-### 2018-01-15 瑞典皇家工学院(KTH): Msc in Molecular Techniques in Life Science
+### (Submitted) 2018-01-15 瑞典皇家工学院(KTH): Msc in Molecular Techniques in Life Science
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -92,7 +92,7 @@ Additional Documents required [more](https://www.kth.se/en/studies/master/molecu
 3. Description of and documented relevant work experience, if any.
 4. Summary sheet
 	
-### 2018-01-15 隆德大学(Lund University): Msc in Bioinformatics
+### (Submitted) 2018-01-15 隆德大学(Lund University): Msc in Bioinformatics
 
 Apply together with KTH.
 
@@ -101,7 +101,7 @@ Apply together with KTH.
 Additional Documents required:
 1. Summary sheet
 
-### 2018-01-15 乌普萨拉大学(Uppsala University): Msc in Bioinformatics (Biology background)
+### (Submitted) 2018-01-15 乌普萨拉大学(Uppsala University): Msc in Bioinformatics (Biology background)
 
 Apply together with KTH.
 
