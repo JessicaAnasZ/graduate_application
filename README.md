@@ -211,12 +211,12 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 **Extra**
 
-### 2018-01-19 多伦多大学 (University of Toronto): Msc in Biostatistics
+### 2018-01-19 多伦多大学 (University of Toronto): Msc in Applied Computing
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not required |
+| GRE   | 0982   | 0402        | Sent     |
+| TOEFL | 0982   | 78          | Sent     |
 
 [Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
 
@@ -229,3 +229,5 @@ This is not required. But, we strongly encourage you to identify at least three 
 2018-01-01: [Application deadline](http://www.dlsph.utoronto.ca/students/future-students/application-process/)
 
 **Extra**
+
+[FAQ](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac/MScAC_FAQ_s.htm)
