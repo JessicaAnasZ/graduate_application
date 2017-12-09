@@ -178,8 +178,12 @@ A: foshan
 
 ### 2018-01-15 UBC: Second Bachelor of Computer Science
 
+TOEFL sent
+
 https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
 
 ### 2018-01-15 SFU: Second Bachelor of Computer Science
+
+TOEFL sent
 
 https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
