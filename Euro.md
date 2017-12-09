@@ -122,35 +122,16 @@ Rolling basis
 
 [Info](https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi)
 
-### 2018-03-31 代尔夫特理工大学 (TUDelft): Msc in Computer Science (Bioinformatics)
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL |        | N/A         | Not sent |
-
-[Info](https://www.tudelft.nl/en/education/programmes/masters/computer-science/Msc-computer-science/special-programmes/bioinformatics/)
-
-[Curriculum]()
-
-[Apply online]()
-
-**Important Dates**
-
-2018-03-31: [Deadline](https://www.tudelft.nl/index.php?id=8244&L=1)
-
-**Extra**
-
-Rolling basis
+[Please note we DO NOT process test reports sent to us directly from IELTS or TOEFL.](https://www.graduate.study.cam.ac.uk/how-do-i-apply/supporting-documentation/evidence-competence-english)
 
 ### 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL |        | N/A         | Not sent |
+| TOEFL |        | N/A         | Sent |
 
-[Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)、
+[Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)
 
 [Curriculum]()
 
