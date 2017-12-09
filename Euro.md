@@ -68,7 +68,7 @@ Documents required:
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | N/A    | N/A         | Not required |
-| TOEFL |        | N/A         | Not sent |
+| TOEFL | 3477   | N/A         | Sent     |
 
 [Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
 
