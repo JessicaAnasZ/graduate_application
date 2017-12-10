@@ -19,7 +19,7 @@
 
 [Application guideline](https://gsas.yale.edu/admissions/application-process)
 
-### 2017-12-15 纽约大学坦登工程学院 (NYU Tandon): Msc in Computer Science
+### (Submitted) 2017-12-15 纽约大学坦登工程学院 (NYU Tandon): Msc in Computer Science
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -51,7 +51,7 @@ All the official transcripts needed
 
 [Apply online](https://apply.gsas.nyu.edu/apply/)
 
-### 2017-12-15 南加大 (USC): Msc in Computer Science (Scientists and Engineers)
+### (Submitted) 2017-12-15 南加大 (USC): Msc in Computer Science (Scientists and Engineers)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
