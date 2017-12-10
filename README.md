@@ -116,11 +116,11 @@ All the official transcripts needed
 | GRE   | 2162   | N/A         | Sent     |
 | TOEFL | 4256   | N/A         | Sent     |
 
-[Info]()
+[Info](http://stat.columbia.edu/ma-programs/application-procedures-and-requirements/)
 
 [Curriculum]()
 
-[Apply online]()
+[Apply online](https://apply.gsas.columbia.edu/account/login?r=https%3a%2f%2fapply.gsas.columbia.edu%2fapply%2f)
 
 **Important Dates**
 
