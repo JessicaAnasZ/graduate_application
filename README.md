@@ -74,7 +74,7 @@ All the official transcripts needed
 
 [Toefl requirement](https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/) USC’s institution code is 4852. (No department code is required.)
 
-### 2017-12-15 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
+### (Submitted) 2017-12-15 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -91,7 +91,7 @@ All the official transcripts needed
 
 **Extra**
 
-### 2017-12-15 卡内基梅隆大学 (CMU): Msc in Computational Biology
+### (Submitted) 2017-12-15 卡内基梅隆大学 (CMU): Msc in Computational Biology
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
