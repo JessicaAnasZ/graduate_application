@@ -1,6 +1,6 @@
 ## 美国
 
-### 2017-12-15 耶鲁大学 (Yale): Msc in Statistics
+### (REJ)2017-12-15 耶鲁大学 (Yale): Msc in Statistics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -9,7 +9,7 @@
 
 [Info](https://statistics.yale.edu/academics/terminal-ma-program)
 
-[Curriculum]()
+[Curriculum](https://statistics.yale.edu/academics/graduate-programs/terminal-ma-program/course-study)
 
 [Apply online](https://apply.grad.yale.edu/apply/frm?c1f71044-d024-44fc-92a7-7535ff6c0174)
 
@@ -19,6 +19,8 @@
 
 [Application guideline](https://gsas.yale.edu/admissions/application-process)
 
+I am not at all suprised since the large number of applicants and the lack of stat. background ?
+
 ### (Submitted) 2017-12-15 纽约大学坦登工程学院 (NYU Tandon): Msc in Computer Science
 
 | Test  | School | Department  | Status   |
@@ -26,9 +28,9 @@
 | GRE   | 2668   | N/A         | Sent     |
 | TOEFL | 2668   | 78          | Sent     |
 
-[Info]()
+[Info](http://engineering.nyu.edu/academics/programs/computer-science-ms)
 
-[Curriculum]()
+[Curriculum](http://engineering.nyu.edu/academics/programs/computer-science-ms/curriculum)
 
 [Apply online](http://engineering.nyu.edu/admissions/graduate/apply)
 
@@ -38,18 +40,22 @@
 
 All the official transcripts needed
 
-### 2017-12-15 纽约大学(NYU): Msc in Data Science 
+### (Submitted) 2017-12-15 纽约大学(NYU): Msc in Data Science 
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | 2596   | N/A         | Sent     |
 | TOEFL | 2596   | N/A         | Sent     |
 
-[Info]()
+[Info](https://cds.nyu.edu/academics/ms-in-data-science/)
 
-[Curriculum]()
+[Curriculum](https://cds.nyu.edu/academics/ms-in-data-science/ms-curriculum/)
 
 [Apply online](https://apply.gsas.nyu.edu/apply/)
+
+**Extra**
+
+Different tracks available during application but successful applicants may switch tracks once admitted. (At least that's what I heard from other)
 
 ### (Submitted) 2017-12-15 南加大 (USC): Msc in Computer Science (Scientists and Engineers)
 
@@ -58,9 +64,9 @@ All the official transcripts needed
 | GRE   | 4852   | N/A         | Sent     |
 | TOEFL | 4852   | N/A         | Sent     |
 
-[Info](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/)
+[Info](https://www.cs.usc.edu/masters/scientists-and-engineers/)
 
-[Curriculum]()
+[Curriculum](https://www.cs.usc.edu/masters/scientists-and-engineers/)
 
 [Apply online](https://usc.liaisoncas.com/applicant-ux/#/login)
 
@@ -74,6 +80,8 @@ All the official transcripts needed
 
 [Toefl requirement](https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/) USC’s institution code is 4852. (No department code is required.)
 
+Decided to discontinue from the application after reviewing the course materials and some classmates. Stop sending official transcripts at Early Jan. 2018
+
 ### (Submitted) 2017-12-15 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
 
 | Test  | School | Department  | Status   |
@@ -85,13 +93,15 @@ All the official transcripts needed
 
 [Curriculum](http://bic.cs.cmu.edu/curriculum/#11675)
 
-[Apply online]()
+[Apply online](https://applygrad.cs.cmu.edu/apply/index.php?domain=1)
 
 **Important Dates**
 
 **Extra**
 
-### (Submitted) 2017-12-15 卡内基梅隆大学 (CMU): Msc in Computational Biology
+This program has changed from BIC to Artificial Intelligence and Entrepreneurship. My friend got admitted but my first priority is Computational Biology and they probably stop reviewing your materials after you've been offered another program at the same school.  
+
+### (ADM) 2017-12-15 卡内基梅隆大学 (CMU): Msc in Computational Biology
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -100,7 +110,7 @@ All the official transcripts needed
 
 [Info](https://www.cmu.edu/ms-compbio/index.html)
 
-[Curriculum]()
+[Curriculum](https://www.cmu.edu/ms-compbio/curriculum/index.html)
 
 [Apply online](https://applygrad.cs.cmu.edu/apply/index.php?domain=1)
 
@@ -108,8 +118,9 @@ All the official transcripts needed
 
 **Extra**
 
+Got an interview for my speaking, probably due to my low TOEFL scores. It went well and I got a small scholarship of 3,000 dollar. Good for someone who really want to continue research/career in computational biology field.
 
-### 2017-12-15 哥伦比亚大学 (Columbia University): MA in Statistics
+### (ADM) 2017-12-15 哥伦比亚大学 (Columbia University): MA in Statistics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -118,7 +129,7 @@ All the official transcripts needed
 
 [Info](http://stat.columbia.edu/ma-programs/application-procedures-and-requirements/)
 
-[Curriculum]()
+[Curriculum](http://stat.columbia.edu/ma-programs/approved-electives/)
 
 [Apply online](https://apply.gsas.columbia.edu/account/login?r=https%3a%2f%2fapply.gsas.columbia.edu%2fapply%2f)
 
@@ -128,7 +139,9 @@ All the official transcripts needed
 
 Rolling basis
 
-### 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
+The first deadline for submitting the deposit is Feb 28, I ask for an extension for a month. Not gonna go because of the high tuition fee. 
+
+### (REJ) 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -137,7 +150,7 @@ Rolling basis
 
 [Info](https://cs.illinois.edu/academics/graduate/ms-bioinformatics-program)
 
-[Curriculum]()
+[Curriculum](https://cs.illinois.edu/academics/courses)
 
 [Apply online](https://choose.illinois.edu/apply/)
 
@@ -155,10 +168,11 @@ I am applying to the M.S. or Ph.D. program. Am I required to provide three facul
 
 This is not required. But, we strongly encourage you to identify at least three CS faculty with whom you might want to work if admitted. Please explore the CS faculty profiles on our website if you are not familiar with the research interests of our faculty. CS faculty are also listed by research area.
 
+Got rejected. Will ask them why. But my guess is the lack of cs courses. This program is quite CS concentrated. 
 
 ## 加拿大
 
-### 2017-12-15 麦吉尔大学 (McGill University): Msc in Biostatistics
+### (REJ) 2017-12-15 麦吉尔大学 (McGill University): Msc in Biostatistics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -167,7 +181,7 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 [Info](http://www.mcgill.ca/gradapplicants/german-studies-0#app)
 
-[Curriculum]()
+[Curriculum](https://www.mcgill.ca/study/2017-2018/faculties/medicine/graduate/programs/master-science-msc-biostatistics-non-thesis#msc-bst-n_bst5_major_md)
 
 [Apply online](https://nimbus.mcgill.ca/uApply/dashboard/applicant)
 
@@ -175,7 +189,9 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 **Extra**
 
-### 2018-02-01 滑铁卢大学 (University of Waterloo): MMath in Biostatistics (Co-op)
+Got rejected for no apparent reasons. ANGRY !!!
+
+### (NA) 2018-02-01 滑铁卢大学 (University of Waterloo): MMath in Biostatistics (Co-op)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -184,7 +200,7 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 [Info](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics-co-operative-program)
 
-[Curriculum]()
+[Curriculum](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics)
 
 [Apply online](https://uwaterloo.ca/discover-graduate-studies/application-process/apply-online)
 
@@ -194,7 +210,9 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 [OUAC](https://www.ouac.on.ca/apply/uwgrad/en_CA/user/login)
 
-### 2018-01-15 英属哥伦比亚大学 (University of British Columbia): Msc in Statistics (Biostatistics track)
+Withdraw at the middle of the application. I don't know why...
+
+### (NA) 2018-01-15 英属哥伦比亚大学 (University of British Columbia): Msc in Statistics (Biostatistics track)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -203,26 +221,28 @@ This is not required. But, we strongly encourage you to identify at least three 
 
 [Info](https://www.stat.ubc.ca/Msc-program-details)
 
-[Curriculum]()
+[Curriculum](https://www.stat.ubc.ca/Msc-program-details)
 
-[Apply online]()
+[Apply online](https://www.stat.ubc.ca/Msc-program-details)
 
 **Important Dates**
 
 **Extra**
 
-### 2018-01-19 多伦多大学 (University of Toronto): Msc in Applied Computing
+Stopped the application for no reasons. I must be crazy at that moment. 
+
+### (Submitted) 2018-01-19 多伦多大学 (University of Toronto): Msc in Applied Computing
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
 | GRE   | 0982   | 0402        | Sent     |
 | TOEFL | 0982   | 78          | Sent     |
 
-[Info](http://www.dlsph.utoronto.ca/program/Msc-biostatistics/)
+[Info](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac.htm)
 
-[Curriculum]()
+[Curriculum](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac.htm)
 
-[Apply online]()
+[Apply online](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac.htm)
 
 **Important Dates**
 
