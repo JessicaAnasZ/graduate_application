@@ -1,6 +1,6 @@
 ## 欧洲
 
-### (Submitted) 2017-12-15 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
+### (ADM) 2017-12-15 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -9,9 +9,9 @@
 
 [Info](http://www.cbb.ethz.ch/prospective-students.html)
 
-[Curriculum]()
+[Curriculum](http://www.cbb.ethz.ch/current-students/programme-structure.html)
 
-[Apply online]()
+[Apply online](https://www.lehrbetrieb.ethz.ch/eApply/overview.view)
 
 **Important Dates**
 
@@ -27,13 +27,15 @@ Can be submitted in a single envelop.
 
 [Online application form](https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en)
 
-[中文文件的证明要求](./graduate_school/ethz/eth_certificate.pdf)
+[中文文件的证明要求](https://www.ethz.ch/content/dam/ethz/main/education/admission/master/standards/standards_en/teil1/China_standards_EN.pdf)
 
 [Document](https://www.ethz.ch/en/studies/registration-application/master/application/how-to-apply/application-documents.html)
 
 网申时，要把每个上过的课的course description写下（500 character）
 
-### 2018-02-15 苏黎世大学(UZH): Msc in Biostatistics
+HHHHHHHH. I got admitted !
+
+### (REJ) 2018-02-15 苏黎世大学(UZH): Msc in Biostatistics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -42,7 +44,7 @@ Can be submitted in a single envelop.
 
 [Info](http://www.biostat.uzh.ch/)
 
-[Curriculum]()
+[Curriculum](http://www.biostat.uzh.ch/program-description/curriculum/)
 
 [Apply online]()
 
@@ -62,6 +64,8 @@ Documents required:
 7. finance plan (containing costs vs. income, e.g. using budget sheets from Google Docs)
 8. proof of a sufficient level in English: where applicable
 9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
+
+FUCK U! Why rejection? No idea!? I think I am more than qualified for this program.
 
 ### (Submitted) 2018-01-15 瑞典皇家工学院(KTH): Msc in Molecular Techniques in Life Science
 
@@ -91,7 +95,9 @@ Additional Documents required [more](https://www.kth.se/en/studies/master/molecu
 2. Letters of recommendation
 3. Description of and documented relevant work experience, if any.
 4. Summary sheet
-	
+
+DO NOT APPLY
+
 ### (Submitted) 2018-01-15 隆德大学(Lund University): Msc in Bioinformatics
 
 Apply together with KTH.
@@ -100,6 +106,8 @@ Apply together with KTH.
 
 Additional Documents required:
 1. Summary sheet
+
+DO NOT APPLY
 
 ### (Submitted) 2018-01-15 乌普萨拉大学(Uppsala University): Msc in Bioinformatics (Biology background)
 
@@ -110,8 +118,9 @@ Apply together with KTH.
 Additional Documents required:
 1. Statement of purpose (1 page)
 
+DO NOT APPLY
 
-### 2018-03-** 剑桥大学 (University of Cambridge): MPhil in Computational Biology
+### (NA) 2018-03-** 剑桥大学 (University of Cambridge): MPhil in Computational Biology
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -124,7 +133,7 @@ Rolling basis
 
 [Please note we DO NOT process test reports sent to us directly from IELTS or TOEFL.](https://www.graduate.study.cam.ac.uk/how-do-i-apply/supporting-documentation/evidence-competence-english)
 
-### 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
+### (Submitted) 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -157,14 +166,18 @@ A: foshan
 
 ## Second Bachlar 
 
-### 2018-01-15 UBC: Second Bachelor of Computer Science
+### (Submitted) 2018-01-15 UBC: Second Bachelor of Computer Science
 
 TOEFL sent
 
 https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
 
-### 2018-01-15 SFU: Second Bachelor of Computer Science
+DO NOT APPLY, It is undergraduate all over again
+
+### (Submitted) 2018-01-15 SFU: Second Bachelor of Computer Science
 
 TOEFL sent
 
 https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
+
+DO NOT APPLY, It is undergraduate all over again
